@@ -11,7 +11,7 @@ In this lab you will work with a ReplicaSet
 
 ## Task 1: Creating a ReplicaSet
 
-1. Get the [manifest file](./files/rs.yaml) and it on your machine.
+1. Download the [manifest file](./files/rs.yaml) and save it on your machine.
 1. In terminal type `kubectl create -f rs.yaml` and press enter.
 1. Using `kubectl get pods`, check if Kubernetes created a new pod.
 
