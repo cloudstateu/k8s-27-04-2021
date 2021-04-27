@@ -64,3 +64,13 @@
       }
     ]
    ```
+
+---
+
+# Instalacja `kubectl` na maszynie laboratoryjnej
+
+1. W terminalu wykonaj komendę:
+
+   ```bash
+   sudo snap install kubectl --classic
+   ```
